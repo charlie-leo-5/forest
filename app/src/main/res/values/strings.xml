@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Finder</string>
+    <string name="default_notification_channel_id">new</string>
+</resources>
